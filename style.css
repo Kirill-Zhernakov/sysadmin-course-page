@@ -1,0 +1,389 @@
+.container {
+	width: 1920px;
+    max-width: 1920px;
+    background-image: url(bg-image.png);
+}
+
+.header {
+	height: 88px;
+	background-color:#040440; 
+}
+
+.header__text {
+	font-family: Arial, sans-serif; 
+	font-size: 18px; 
+	color: white; 
+	padding-left: 90px; 
+	padding-top: 21px; 
+	padding-bottom: 20px;
+}
+
+.header__list {
+	font-family: Arial, sans-serif; 
+	font-size: 18px; 
+	margin-top: 6px; 
+}
+
+.header__list--link {
+	color: white;
+}
+
+.header__list--link:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.header__item2 {
+	padding-left: 76px;
+}
+
+.header__item3 {
+	padding-left: 70px;
+}
+
+.header__item4 {
+	padding-left: 107px;  
+}
+
+.header__item4--btn {
+	border-radius: 38px; 
+	background-color: #C93555; 
+	color: white; 
+	width: 256px; 
+	margin-top: 1px; 
+	padding-left: 30px; 
+	height: 73px; 
+}
+
+
+.main_content {
+	height: 892px;
+}
+
+.main_content__line {
+	border-bottom: 8px solid #C93555;
+	width: 120px; 
+	margin-left: 342px; 
+	margin-top: 177px; 
+	margin-bottom: 8px;
+}
+
+.main_content__text {
+	font-family: Arial, sans-serif; 
+	color: #C93555; 
+	margin-left: 340px; 
+	font-size: 23px;
+}
+
+.main_content__title {
+	font-family: Arial, sans-serif; 
+	font-size: 50px; 
+	color: white; 
+	padding-top: 29px; 
+	padding-left: 342px;
+}
+
+.main_content__text2 {
+	font-family: Arial, sans-serif; 
+	color: white; 
+	margin-left: 344px; 
+	font-size: 24px; 
+	padding-top: 31px;
+}
+
+.main_content__btn {
+	font-family: Arial, sans-serif; 
+	border-radius: 39px; 
+	background-color: #C93555; 
+	color: white; 
+	padding-left: 58px; 
+	padding-right: 68px; 
+	padding-top: 17px; 
+	padding-bottom: 18px; 
+	height: 72px; 
+	margin-left: 338px; 
+	margin-top: 66px; 
+}
+
+.main_content__btn--title {
+	font-size: 24px;
+}
+
+
+.main_content__list {
+	color: white; 
+	margin-top: 55px; 
+	padding-left: 342px; 
+	margin-bottom: 133px;
+}
+
+
+.main_content__item1--title1 {
+	font-family: Arial, sans-serif; 
+	font-size: 15px;
+}
+
+.main_content__item1--text1 {
+	font-family: Arial, sans-serif; 
+	font-size: 23px; 
+	padding-top: 2px;
+}
+
+
+.main_content__item2 {
+	padding-left: 81px;
+}
+
+.main_content__item2--title2 {
+	font-family: Arial, sans-serif; 
+	font-size: 15px;
+}
+
+.main_content__item2--text2 {
+	font-family: Arial, sans-serif; 
+	font-size: 24px; 
+	padding-left: 5px;
+}
+
+
+.main_content__item3 {
+	padding-left: 83px;
+}
+
+.main_content__item3--title3 {
+	font-family: Arial, sans-serif; 
+	font-size: 15px;
+}
+
+.main_content__item3--text3 {
+	font-family: Arial, sans-serif; 
+	font-size: 24px; 
+	padding-left: 1px;
+}
+
+
+.content2 {
+	background-color: #040440;
+	height: 685px;
+}
+
+.content2__img {
+	position: relative; 
+	left:382px; 
+	top:101px;
+}
+
+.content2__vertical_line {
+	border-right: 8px solid #C93555; 
+	position: relative; 
+	left: 460px; 
+	height: 65px; 
+	top: -59px; 
+	display: inline-block;
+}
+
+.content2__title {
+	margin-left: -13px; 
+	color: white; 
+	position: relative; 
+	left: 481px; 
+	top: -91px; 
+	font-family: Arial, sans-serif; 
+	font-size: 31px; 
+	display: inline-block;
+}
+
+.content2__text1 {
+	color: white; 
+	position: absolute; 
+	left: 975px; 
+	top: 187px;
+	font-size: 30px; 
+	line-height: 1.2; 
+	font-weight: 100;
+}
+
+.content2__text2 {
+	color: white; 
+	position: absolute; 
+	left: 975px; 
+	top: 403px;
+	font-size: 30px; 
+	line-height: 1.2; 
+	font-weight: 100;
+}
+
+
+.content3 {
+	background: #130B5B; 
+	height: 822px; 
+}
+
+.content3__vertical_line1 {
+	border-right: 8px solid #C93555; 
+	position: relative; 
+	right: 1546px; 
+	height: 65px; 
+	top: 67px;
+}
+
+.content3__title1 {
+	display: inline-block; 
+	font-family: Arial, sans-serif; 
+	font-size: 30px; 
+	color: white; 
+	margin-left: 350px; 
+	margin-top: 6px;
+}
+
+.content3__text1 {
+	color: white; 
+	margin-left: 342px; 
+	margin-top: 47px;
+	font-size: 31px; 
+	line-height: 1.2; 
+	font-weight: 100;
+}
+
+.content3__vertical_line2 {
+	border-right: 9px solid #C93555; 
+	position: absolute; 
+	left: 353px; 
+	top: 423px; 
+	height: 65px;
+}
+
+.content3__title2 { 
+	position: absolute; 
+	font-family: Arial, sans-serif; 
+	font-size: 29px; 
+	color: white;  
+	bottom: 33px; 
+	left: 367px; 
+	top: 436px;
+}
+
+.content3__text2 {
+	color: white;  
+	position: absolute; 
+	left: 360px; 
+	top: 501px; 
+	font-size: 30px; 
+	line-height: 1.2; 
+	font-weight: 100;
+}
+
+.content3__text3 {
+	color: white;  
+	position: absolute; 
+	left: 360px; 
+	top: 538px; 
+	font-size: 30px; 
+	line-height: 1.2; 
+	font-weight: 100;			
+}
+
+.content3__btn {
+	position: absolute; 
+	top: 625px; 
+	left: 15px;
+	font-family: Arial, sans-serif; 
+	border-radius: 25px; 
+	background-color: #C93555; 
+	color: white; 
+	padding-left: 16px; 
+	padding-top: 2px; 
+	width: 535px;
+	height: 155px; 
+	margin-top: -193px; 
+	margin-left: 988px; 
+	border: 1px dashed black;
+}
+
+.content3__btn--title {
+	font-size: 30px; font-weight: 600; 
+}
+
+
+.footer {
+	background-color: #080742; 
+	height: 110px;
+}
+
+.footer_list {
+	font-size: 25px;  
+	line-height: 1.1; 
+	font-weight: 100;
+}
+
+.footer__item_facebook {
+	background-color: #C93555; 
+	position: absolute; 
+	left: 38px; 
+	top: 59px; 
+	padding-top: 4px; 
+	padding-left: 12px; 
+	padding-right: 3px; 
+	border-radius: 3px; 
+	height: 35px;
+}
+
+.footer__item_facebook--fb {
+	color: white; 
+}
+
+.footer__item_vkontacte {
+	background-color: #C93555; 
+	position: absolute; 
+	left: 94px; 
+	top: 59px; 
+	border-radius: 3px; 
+	height: 35px; 
+	padding-top: 2; 
+	padding-left: 8px; 
+	padding-right: 7px; 
+	padding-bottom: 8px;
+}
+
+.footer__item_vkontacte--vk {
+	color: white; 
+	font-size: 20px;
+}
+
+.footer__item_youtube {
+	background-color: #C93555; 
+	position: absolute;
+	left: 151px; 
+	top: 59px; 
+	border-radius: 3px; 
+	height: 35px; 
+	padding-top: 3px; 
+	padding-left: 5px; 
+	padding-right: 5px; 
+}
+
+.footer__item_youtube--youtube {
+	color: white; 
+	font-size: 25px;
+}
+
+.footer__item--address {
+	position: absolute; 
+	left: 309px; 
+	top: 43px;
+	color: white;
+}
+
+.footer__item--e-mail {
+	position: absolute; 
+	left: 681px; 
+	top: 47px;
+	color: white;
+}
+
+.footer__item--phone {
+	position: absolute; 
+	left: 1092px; 
+	top: 47px;
+	color: white;
+}
