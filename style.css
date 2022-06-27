@@ -1,5 +1,5 @@
 .container {
-    max-width: 1920px;
+    width: 1920px;
     background-image: url(bg-image.png);
 }
 
